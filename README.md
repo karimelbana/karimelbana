@@ -1,6 +1,15 @@
 ### Hi there I am Karim 👋 
 
-Berlin-based Egyptian with M.Sc in Solar Energy from Sweden and Data Science Bootcamp graduate from Le Wagon and Spiced Academy.
+Berlin-based Egyptian love to visually facilitate and document knowledge using graphic design, graphic facilitation, and graphic recording, with M.Sc in Solar Energy from Sweden and Data Science Bootcamp graduate from Le Wagon and Spiced Academy.
+
+Samples of the graphic recordings I did and the graphic facilitation workshops I hold:
+![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
+![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
+![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
+![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
+![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
+![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
+
 
 Tech & Digitalization enthusiast, passionate about Climate Justice & advocacy, and experienced in UN Climate Change processes. Ready to use Python and AI to inspire data-driven solutions.
 
