@@ -3,12 +3,16 @@
 Berlin-based Egyptian love to visually facilitate and document knowledge using graphic design, graphic facilitation, and graphic recording, with M.Sc in Solar Energy from Sweden and Data Science Bootcamp graduate from Le Wagon and Spiced Academy.
 
 Samples of the graphic recordings I did and the graphic facilitation workshops I hold:
-![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
-![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
-![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
-![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
-![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
-![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
+![alt text]([https://drive.google.com/drive/folders/1PRpk8L8MYYLySXhUD4qc6-ZYbO2s7hqF](https://drive.google.com/file/d/1Bv64R7GYM4nSCRXhoUbDLg6-RwvmuhVO/view?usp=sharing))
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
 
 
 Tech & Digitalization enthusiast, passionate about Climate Justice & advocacy, and experienced in UN Climate Change processes. Ready to use Python and AI to inspire data-driven solutions.
