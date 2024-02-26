@@ -4,15 +4,16 @@ Berlin-based Egyptian love to visually facilitate and document knowledge using g
 
 Samples of the graphic recordings I did and the graphic facilitation workshops I hold:
 ![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/1.jpeg))
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/2.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/3.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/4.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/5.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/6.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/7.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/8.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/9.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/10.jpeg))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/11.jpeg))
 
 
 Tech & Digitalization enthusiast, passionate about Climate Justice & advocacy, and experienced in UN Climate Change processes. Ready to use Python and AI to inspire data-driven solutions.
