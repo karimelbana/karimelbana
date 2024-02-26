@@ -3,7 +3,7 @@
 Berlin-based Egyptian love to visually facilitate and document knowledge using graphic design, graphic facilitation, and graphic recording, with M.Sc in Solar Energy from Sweden and Data Science Bootcamp graduate from Le Wagon and Spiced Academy.
 
 Samples of the graphic recordings I did and the graphic facilitation workshops I hold:
-![alt text]([https://drive.google.com/drive/folders/1PRpk8L8MYYLySXhUD4qc6-ZYbO2s7hqF](https://drive.google.com/file/d/1Bv64R7GYM4nSCRXhoUbDLg6-RwvmuhVO/view?usp=sharing))
+![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/1.jpeg))
 ![alt text]()
 ![alt text]()
 ![alt text]()
