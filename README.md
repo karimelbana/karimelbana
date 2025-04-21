@@ -27,7 +27,7 @@ I'm dedicated to code quality. Details matter. This is why I prefer writing code
 - Demonstrated in Storybook
 - I believe that these contribute to stronger and faster development and a strong dev culture.
 
-### Some of my favourite projects are:
+### A project I am proud of:
 
 - [SolarOdyssey](https://karimelbana-solarodyssey-interfacesolar-app-gq3677.streamlit.app/), the deep learning model that predicts energy demand of rural villages in Nigeria using satellite images
 
