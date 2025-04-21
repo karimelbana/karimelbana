@@ -18,8 +18,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I did my solar energy masters in Sweden 29.5° south of the North Pole 🏔️ 🌘
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelbana&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### How I like my code
 I'm dedicated to code quality. Details matter. This is why I prefer writing code that is
 
@@ -31,6 +29,9 @@ I'm dedicated to code quality. Details matter. This is why I prefer writing code
 - I'm a big advocate of Design being not "just drawings" but the way we organize information. Good design is key to success and hence a good code base should closely follow good design.
 - Demonstrated in Storybook
 - I believe that these contribute to stronger and faster development and a strong dev culture.
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelbana&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### A project I am proud of:
 
