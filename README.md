@@ -35,6 +35,3 @@ I'm dedicated to code quality. Details matter. This is why I prefer writing code
 
 <!--
 **karimelbana/karimelbana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![alt text](https://drive.google.com/file/d/1MCRn8jlkZcQ2XR3UzyFCxS5VSq9RmFEK/view?usp=sharing)
-
