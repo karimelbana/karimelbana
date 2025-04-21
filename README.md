@@ -1,35 +1,12 @@
 ### Hi there I am Karim 👋 
 
-Berlin-based Egyptian love to visually facilitate and document knowledge using graphic design, graphic facilitation, and graphic recording, with M.Sc in Solar Energy from Sweden and Data Science Bootcamp graduate from Le Wagon and Spiced Academy.
+🌍 Berlin-based Data Scientist with an M.Sc. in Solar Energy Engineering (Sweden) and industry-recognized training from world-leading AI institutions.
 
-Samples of the graphic recordings I did and the graphic facilitation workshops I hold:
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/1.jpeg)
+👨‍🏫 I’ve trained 500+ professionals from all 7 continents, delivering impactful 400-hour data science education in 6 countries. ⭐ One of the top-reviewed trainers with 99% 5-star ratings. I bring strong AI technical depth alongside hands-on experience in UN Climate Change processes 🌿.
 
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/2.jpeg)
+💻 Tech & Digitalization enthusiast | ⚖️ Advocate for Climate Justice | 🤝 Experienced in global sustainability work.
+🐍 Ready to use Python and AI to inspire data-driven solutions that create real-world impact.
 
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/3.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/4.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/5.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/6.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/7.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/8.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/9.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/10.jpeg)
-
-![alt text](https://github.com/karimelbana/graphic_facilitation/blob/main/11.jpeg)
-
-
-Tech & Digitalization enthusiast, passionate about Climate Justice & advocacy, and experienced in UN Climate Change processes. Ready to use Python and AI to inspire data-driven solutions.
-
-- 🔭 I’m currently working on developing my Python skills! 🧑‍💻
-- 🌱 I’m currently learning MLOps 🧑‍💻🧑‍💻
 - 👯 I’m looking to collaborate on any projects that boost energy access and climate resilience in global south 🌍
 - 💬 Ask me about solar energy 🌞
 - 📫 How to reach me: www.linkedin.com/in/karim-elbana/ ❤️
@@ -39,7 +16,7 @@ Tech & Digitalization enthusiast, passionate about Climate Justice & advocacy, a
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelbana&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How I like my code
-I'm passionate about code quality. Details matter. This is why I prefer writing code that is
+I'm dedicated to code quality. Details matter. This is why I prefer writing code that is
 
 - Minimal (no semicolons)
 - Clean (no spaghetti code)
@@ -52,21 +29,9 @@ I'm passionate about code quality. Details matter. This is why I prefer writing 
 
 ### Some of my favourite projects are:
 
-- [SolarOdyssey](https://karimelbana-solarodyssey-interfacesolar-app-gq3677.streamlit.app/), the deep learning model that predicts energy demand of rural villages in Nigeria using sattelite images
+- [SolarOdyssey](https://karimelbana-solarodyssey-interfacesolar-app-gq3677.streamlit.app/), the deep learning model that predicts energy demand of rural villages in Nigeria using satellite images
 
 ![alt text](https://github.com/karimelbana/SolarOdyssey/blob/main/Interface/SolarOdyssey_Logo.png)
 
 <!--
 **karimelbana/karimelbana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
