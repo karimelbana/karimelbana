@@ -9,6 +9,7 @@
 👨‍🏫 I’ve trained 500+ professionals from all 7 continents, delivering impactful 400-hour data science education in 6 countries. ⭐ One of the top-reviewed trainers with 99% 5-star ratings. I bring strong AI technical depth alongside hands-on experience in UN Climate Change processes 🌿.
 
 💻 Tech & Digitalization enthusiast | ⚖️ Advocate for Climate Justice | 🤝 Experienced in global sustainability work.
+
 🐍 Ready to use Python and AI to inspire data-driven solutions that create real-world impact.
 
 - 👯 I’m looking to collaborate on any projects that boost energy access and climate resilience in global south 🌍
