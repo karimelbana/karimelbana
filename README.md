@@ -1,6 +1,6 @@
 ### Hi there I am Karim 👋 
 
-🌍 Berlin-based Data Scientist with an M.Sc. in Solar Energy Engineering (Sweden) and industry-recognized training from world-leading AI institutions.
+🌍 Berlin-based Data Scientist with a M.Sc. in Solar Energy Engineering (Sweden) and industry-recognized training from world-leading AI institutions.
 
 👨‍🏫 I’ve trained 500+ professionals from all 7 continents, delivering impactful 400-hour data science education in 6 countries. ⭐ One of the top-reviewed trainers with 99% 5-star ratings. I bring strong AI technical depth alongside hands-on experience in UN Climate Change processes 🌿.
 
