@@ -2,7 +2,7 @@
 
 # Hi, I'm Karim 👋
 
-**Data Scientist & Lead Data Instructor** · ML, DL, MLOps, LLMs
+**Data Scientist & Senior Lead Data Instructor** · ML, DL, MLOps, LLMs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karim--elbana-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-elbana/)
 [![Email](https://img.shields.io/badge/Email-karimelbana.ai%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karimelbana.ai@gmail.com)
